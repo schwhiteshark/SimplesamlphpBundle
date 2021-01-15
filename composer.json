@@ -1,5 +1,5 @@
 {
-    "name": "hslavich/simplesamlphp-bundle",
+    "name": "fork-hslavich/simplesamlphp-bundle",
     "type": "symfony-bundle",
     "description": "SimpleSAMLphp Bundle for Symfony",
     "keywords": ["simplesamlphp", "saml"],
